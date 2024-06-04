@@ -11,6 +11,5 @@ pages = {},
 title = {SRIME: A strengthened RIME with Latin hypercube sampling and embedded distance-based selection for engineering optimization problems},  
 volume = {},  
 journal = {Neural Computing and Applications},  
-doi = {},  
-note = {Accept},  
+doi = {https://doi.org/10.1007/s00521-024-09424-4 },  
 }
