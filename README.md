@@ -6,7 +6,7 @@ This paper proposes a strengthened RIME algorithm to tackle continuous optimizat
 
 ## Citation
 @article{Zhong:24,  
-author = {Rui, Zhong and Jun, Yu and Chao, Zhang and Masaharu, Munetomo},  
+author = {Rui Zhong and Jun Yu and Chao Zhang and Masaharu Munetomo},  
 year = {2024},  
 month = {01},  
 pages = {6721–6740},  
